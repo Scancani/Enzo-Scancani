@@ -2,7 +2,7 @@
 
 Meu nome é **ENZO SCANÇANI**
 
-- Um menino esforçadocom grandes sonhos 👼
+- Um menino esforçado com grandes sonhos 👼
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
